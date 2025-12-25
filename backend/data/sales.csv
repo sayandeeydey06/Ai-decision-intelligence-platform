@@ -1,0 +1,13 @@
+date,store_id,product_id,product_name,category,unit_price,units_sold,discount_percent,marketing_spend,daily_revenue,weather,day_type,stock_available
+2024-11-01,S001,P101,Wireless Mouse,Electronics,799,18,5,1200,13646,Clear,Weekday,Yes
+2024-11-01,S001,P102,Keyboard,Electronics,1299,12,10,1200,14029,Clear,Weekday,Yes
+2024-11-02,S001,P103,Headphones,Electronics,1999,7,0,900,13993,Rainy,Weekend,Yes
+2024-11-02,S002,P104,Notebook,Stationery,99,65,0,300,6435,Rainy,Weekend,Yes
+2024-11-03,S002,P105,Water Bottle,Accessories,499,30,5,500,14215,Clear,Weekend,Yes
+2024-11-04,S001,P101,Wireless Mouse,Electronics,799,22,5,1500,16679,Clear,Weekday,Yes
+2024-11-05,S003,P106,Backpack,Bags,2499,6,10,2000,13494,Cloudy,Weekday,No
+2024-11-06,S003,P107,Pen Set,Stationery,199,48,0,400,9552,Clear,Weekday,Yes
+2024-11-07,S002,P108,Smart Watch,Electronics,3499,5,15,2500,14870,Clear,Weekday,Yes
+2024-11-08,S001,P109,Phone Stand,Accessories,299,40,0,600,11960,Clear,Weekday,Yes
+2024-11-09,S002,P103,Headphones,Electronics,1999,9,5,1800,17092,Rainy,Weekend,Yes
+2024-11-10,S003,P105,Water Bottle,Accessories,499,35,10,700,15716,Clear,Weekend,Yes
