@@ -1,12 +1,12 @@
 # Autonomous AI Decision Intelligence Platform
 
-An end-to-end **AI-powered decision intelligence system** that analyzes retail sales data, predicts future revenue, generates **explainable business decisions**, and executes **autonomous actions** through a full-stack web application.
+An end-to-end AI-powered decision intelligence system** that analyzes retail sales data, predicts future revenue, generates **explainable business decisions**, and executes autonomous actions through a full-stack web application.
 
 ---
 
 ## 📌 Overview
 
-This project demonstrates how AI can be used **beyond predictions** to support real business decision-making.
+This project demonstrates how AI can be used beyond predictions to support real business decision-making.
 
 Instead of focusing only on model accuracy, the platform emphasizes:
 - Decision intelligence
@@ -66,17 +66,28 @@ The system simulates how AI is applied in **retail analytics and operations**.
 ## 🏗️ Architecture
 
 CSV Data (Default / User Upload)
+
 ↓
+
 Data Processing & Aggregation
+
 ↓
+
 ML Prediction Engine
+
 ↓
+
 Decision Engine (Rules + Confidence)
+
 ↓
 Autonomous Action Executor
+
 ↓
+
 Decision History (Audit Logs)
+
 ↓
+
 React Dashboard
 
 
@@ -167,7 +178,7 @@ date,daily_revenue
 2024-11-02,14200
 2024-11-03,12800
 
-Sample Output
+## Sample Output :
 
 Prediction:
 Predicted Revenue: 11113.87
